@@ -1,13 +1,13 @@
 ## Hi there 👋
 <br>
 
-Why are you reading this?  Seriously, I wanna know...<br>
-And, I'm Fer, 17 years old living in Colombia.<br>
-Studying first year of Computer and Systems Engineering.
+Hello world!
+I'm Juan 17 years old and currently studying Systems Engineering.
+I live in Colombia and I'm trying my best to learn programming.
 
 ### What I commonly use
-<img align="left" alt="C" width="30px" src="https://github.com/afriguez/afriguez/blob/master/archlinux.png" style="max-width:100%;">
-<img align="left" alt="C" width="30px" src="https://github.com/afriguez/afriguez/blob/master/neovim.png" style="max-width:100%;">
-<img align="left" alt="C" width="30px" src="https://github.com/afriguez/afriguez/blob/master/nodejs.png" style="max-width:100%;">
-<img align="left" alt="C" width="30px" src="https://github.com/afriguez/afriguez/blob/master/c++.png" style="max-width:100%;">
-<img align="left" alt="C" width="30px" src="https://github.com/afriguez/afriguez/blob/master/python.png" style="max-width:100%;">
+<img align="left" alt="C" width="30px" src="https://github.com/Adrephos/Adrephos/blob/master/archlinux.png" style="max-width:100%;">
+<img align="left" alt="C" width="30px" src="https://github.com/Adrephos/Adrephos/blob/master/neovim.png" style="max-width:100%;">
+<img align="left" alt="C" width="30px" src="https://github.com/Adrephos/Adrephos/blob/master/nodejs.png" style="max-width:100%;">
+<img align="left" alt="C" width="30px" src="https://github.com/Adrephos/Adrephos/blob/master/c++.png" style="max-width:100%;">
+<img align="left" alt="C" width="30px" src="https://github.com/Adrephos/Adrephos/blob/master/python.png" style="max-width:100%;">
