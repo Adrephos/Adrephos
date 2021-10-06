@@ -1,8 +1,8 @@
 ## Hi there 👋
 <br>
 
-Hello world!
-I'm Juan 17 years old and currently studying Systems Engineering.
+Hello world! <br>
+I'm Juan 17 years old and currently studying Systems Engineering.<br>
 I live in Colombia and I'm trying my best to learn programming.
 
 ### What I commonly use
