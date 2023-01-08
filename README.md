@@ -2,7 +2,7 @@
 <br>
 
 Hello world! <br>
-I'm Juan 18 years old and currently studying Computer Science.<br>
+I'm Juan 19 years old and currently studying Computer Science.<br>
 I live in Colombia and I'm trying my best to learn programming.
 
 ### What I commonly use
