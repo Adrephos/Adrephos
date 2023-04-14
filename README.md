@@ -11,7 +11,7 @@ I'm Juan 19 years old and currently studying Computer Science.<br>
 
 <div>
 	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Neovim-mark.svg/1680px-Neovim-mark.svg.png" style="width: auto; height: 40px; padding: 3px;"/>
-	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/1200px-Archlinux-icon-crystal-64.svg.png" style="width: 40px; height: 40px; padding: 3px;"/>
+	<img src="https://github.com/afriguez/afriguez/blob/master/archlinux.png" style="width: 40px; height: 40px; padding: 3px;"/>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" style="width: 40px; height: 40px; padding: 2px;"/> 
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" style="width: 40px; height: 40px"/>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" style="width: 40px; height: 40px; padding: 3px"/>
