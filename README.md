@@ -1,7 +1,7 @@
 ## Hi there, I'm Adrephos 🪶
 <br>
 Hello world! <br>
-I'm Juan 19 years old and currently studying Computer Science.<br>
+I'm Juan 21 years old and currently studying Computer Science.<br>
 <br>
 &ensp;&ensp;&ensp;&ensp;&ensp;💻 I have experience using Linux and High performance Computing.<br>
 &ensp;&ensp;&ensp;&ensp;&ensp;🕹️ I enjoy videogames and music as well as coding and learning.<br>
