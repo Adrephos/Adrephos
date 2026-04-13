@@ -9,16 +9,6 @@ I'm Juan 21 years old and currently studying Computer Science.<br>
 
 ### What I commonly Use
 
-<div>
-	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Neovim-mark.svg/1680px-Neovim-mark.svg.png" style="width: auto; height: 40px; padding: 3px;"/>
-	<img src="https://nixos.wiki/images/thumb/2/20/Home-nixos-logo.png/311px-Home-nixos-logo.png" style="width: 40px; height: 40px; padding: 3px;"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" style="width: 40px; height: 40px; padding: 2px;"/> 
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" style="width: 40px; height: 40px"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" style="width: 40px; height: 40px; padding: 3px"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="width: 40px; height: 40px"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="width: 40px; height: 40px"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="width: 40px; height: 40px; padding: 3px;"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="width: 40px; height: 40px; padding: 3px;"/>
-</div>
+[![My Skills](https://skillicons.dev/icons?i=neovim,nix,go,firebase,python,react,cpp,typescript,git,gcp,aws)](https://skillicons.dev)
 
 If you want to know more about me, consider going [my website](https://adrephos.com)
